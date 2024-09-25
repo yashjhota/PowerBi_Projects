@@ -1,4 +1,4 @@
-# PowerBi_Projects
+# PowerBi
 ## 🛒 Super Store Sales Dashboard 📊
 
 This **Super Store Sales Dashboard** provides key insights into sales performance using interactive visualizations:
