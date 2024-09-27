@@ -1,4 +1,8 @@
 # PowerBi
+
+### 📂 **Dataset:**
+
+You can access the dataset used for this dashboard [here](https://shorturl.at/M3dXa).
 ## 🛒 Super Store Sales Dashboard 📊
 
 This **Super Store Sales Dashboard** provides key insights into sales performance using interactive visualizations:
