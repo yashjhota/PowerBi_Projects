@@ -35,5 +35,20 @@ This dashboard visualizes key metrics related to employee attrition in an organi
 - **Service Tenure:** 7 years.
 
 ---
+# 🌍 Air Quality Report Dashboard
+
+🚀 **Overview:**  
+This dashboard provides an insightful visualization of air quality across various cities, focusing on key pollutants and trends over time.
+
+### 📊 **Key Features:**
+- **City-Wise AQI:** Displays air quality information across multiple cities with a map view 🌆.
+- **Top 3 Pollutants:** Highlights the most polluted cities, with Ahmedabad leading at 452 🏙️.
+- **Least Polluted Cities:** Includes cleaner cities like Coimbatore (73), Shillong (54), and Aizawl (35) 🌿.
+- **Pollutant Averages:** 
+  - **CO:** 2.25
+  - **NO:** 17.57
+  - **PM2.5:** 67.45
+  - **SO2:** 14.53
+- **AQI Trend Overview:** Shows the downward trend in AQI levels from 2015 to 2020 📉.
 
 
