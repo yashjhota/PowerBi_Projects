@@ -16,6 +16,9 @@ This **Super Store Sales Dashboard** provides key insights into sales performanc
 - **Sales by Region, Payment Mode, and Ship Mode**: Analyze sales trends across regions, payment methods, and shipping classes 🌎💳📦
 - **Year-over-Year Sales and Profit Analysis** 📆
 
+- ![](Screenshots/SuperStore.png)
+
+
 # 🧑‍💼 HR Analytics Dashboard
 
 🚀 **Overview:**  
