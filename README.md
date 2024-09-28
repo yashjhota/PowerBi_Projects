@@ -37,6 +37,8 @@ This dashboard visualizes key metrics related to employee attrition in an organi
 - **Average Salary:** $6.5K.
 - **Service Tenure:** 7 years.
 
+ ![](Screenshots/HR.png)
+
 ---
 # 🌍 Air Quality Report Dashboard
 
@@ -53,5 +55,6 @@ This dashboard provides an insightful visualization of air quality across variou
   - **PM2.5:** 67.45
   - **SO2:** 14.53
 - **AQI Trend Overview:** Shows the downward trend in AQI levels from 2015 to 2020 📉.
+ ![](Screenshots/AQI.png)
 
 
