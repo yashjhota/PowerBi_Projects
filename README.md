@@ -3,6 +3,29 @@
 ### 📂 **Dataset:**
 
 You can access the dataset used for dashboards [here](https://shorturl.at/M3dXa).
+
+
+# 🏅 Paris 2024 Olympics Dashboard
+
+This project visualizes the performance and participation data of athletes in the **Paris 2024 Olympics** using interactive charts and maps. The dashboard provides insights into key aspects such as medals won, gender distribution, and country-level statistics. 🚀
+
+## 🔑 Key Features
+
+- **🎖️ Medal Counts**: Track the number of Gold, Silver, and Bronze medals won by athletes.
+- **👥 Gender Insights**: View a breakdown of athlete participation and medal distribution by gender.
+- **🌍 Country Overview**: Explore the geographical distribution of medals and top-performing countries through an interactive map.
+- **📊 Detailed Visuals**: Various graphs representing athlete performance by age, category, and country.
+
+## 📌 Sections
+
+1. **Overview**: A summary of overall performance and participation.
+2. **Athlete Analysis**: Detailed breakdown of athletes by age, gender, and performance.
+3. **Country Insights**: Medal and performance data for each participating country.
+
+- ![](Screenshots/Paris1.png)
+- ![](Screenshots/Paris2.png)
+- ![](Screenshots/Paris3.png)
+
 ## 🛒 Super Store Sales Dashboard 📊
 
 This **Super Store Sales Dashboard** provides key insights into sales performance using interactive visualizations:
